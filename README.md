@@ -1,41 +1,20 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="GitHub README header image">
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Hossam Ahmed**, an **IT Operations Specialist** keeping systems running smoothly and securely. Working with **Windows Server, Active Directory, PowerShell, Networking & VMware**. 
 
-# Hi there, I'm Hossam Ahmed 👋
+<table width="1200px" cellspacing="0" cellpadding="0">
+<tr>
+<td width="600px" valign="top">
 
-<p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="mailto:hossamespitan12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-</p>
+**Core Stack & Focus**
 
----
+• **Infrastructure:** Windows Server, Active Directory, GPO, DNS, DHCP<br>• **Networking:** Cisco routing/switching, TCP/IP, VLANs<br>• **Automation:** PowerShell scripting for systems management<br>• **Virtualization:** VMware & Hyper-V environment maintenance<br>• **Monitoring:** System health checks, troubleshooting, and incident response
 
-### 👨‍💻 About Me
-* 🔭 I’m currently working as an **IT Operations Specialist**.
-* 🛠️ Passionate about building, securing, and scaling robust IT infrastructure, system administration, and network automation.
-* 📚 Constantly sharpening my skills in Windows Server, Active Directory, PowerShell Scripting, and Cisco Networks.
+</td>
+<td width="600px" valign="top">
 
----
+**Connect & Contact**
 
-### 🛠️ Tech Stack & Skills
+• [LinkedIn Profile](YOUR_LINKEDIN_URL)<br>• [GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)<br>• [Email Me](mailto:hossamespitan12@gmail.com)<br>• Focus: High Availability, Security, and Cloud/On-Prem Operations<br>• Location: Egypt 🇪🇬
 
-<p>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windowsserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-005A9E?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FBIP-FF4500?style=for-the-badge&logo=internet&logoColor=white" />
-</p>
-
-* **Operating Systems:** Windows Server (2019/2025), Windows 10/11, Linux (Ubuntu/CentOS basics)
-* **Networking & Protocols:** CCNA, MCSA concepts, DHCP, DNS, TCP/IP, VLANs, TACACS+, RADIUS
-* **Automation & Scripting:** PowerShell Scripting for Active Directory & GPO Management
-* **Virtualization & Tools:** VMware Workstation, Cisco Packet Tracer, Hyper-V
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</td>
+</tr>
+</table>
