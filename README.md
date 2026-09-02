@@ -4,7 +4,7 @@
 <tr>
 <td width="600px" valign="top">
 
-**Core Stack & Focus**
+**Core Stack & Focus** 
 
 • **Infrastructure:** Windows Server, Active Directory, GPO, DNS, DHCP<br>• **Networking:** Cisco routing/switching, TCP/IP, VLANs<br>• **Automation:** PowerShell scripting for systems management<br>• **Virtualization:** VMware & Hyper-V environment maintenance<br>• **Monitoring:** System health checks, troubleshooting, and incident response
 
